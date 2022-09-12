@@ -9,5 +9,5 @@ spec:
     - name: bhanuprata9013/rest
       image: bhanuprata9013/rest
       ports:
-        containerPorts: 9090
+        - containerPorts: 9090
     
